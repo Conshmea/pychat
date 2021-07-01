@@ -1,6 +1,6 @@
 Python Project
 ==============
-By Connor Schelbert
+By Conshmea
 _________________________________
 
 My project is a encrypted messaging client and server
